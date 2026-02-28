@@ -1,20 +1,149 @@
-# СЕРІЯ 1: Shadow_and_Light (Ярко вчиться керувати страхом)
-Yarko 6yo boy, honey-chestnut hair, emerald eyes with gold dots, curious expression, Studio Ghibli style, soft cinematic lighting, magical bedroom atmosphere --ar 3:2
-Yarko looking under the bed, glowing magical eyes of Tremtyk peeking from shadows, emotional storytelling, cinematic composition --ar 3:2
-Yarko drawing with glowing chalk on the wooden floor, the lines begin to float in the air, light vs shadow contrast, hyper-detailed --ar 3:2
-Yarko face close-up, expression of wonder, golden freckles glowing slightly, volumetric atmosphere, soft rim light --ar 3:2
-Yarko and Sofia standing together, Sofia holding a violin, magical forest background, silhouettes against a golden sunset, Snyder style --ar 3:2
+Yarko 6yo boy, honey-chestnut hair, emerald eyes with gold dots, sitting on a wooden floor drawing with glowing chalk, Studio Ghibli style, soft cinematic lighting --ar 3:2
 
-# СЕРІЯ 2: Music_of_the_Forest (Софія та сила звуку)
-Sofia 15yo girl, long dark hair, elegant posture, playing violin in a magical forest, musical notes turning into glowing butterflies --ar 3:2
-Sofia's hands on the violin, detailed wood texture, magical particles rising from the strings, soft bokeh background --ar 3:2
-Yarko dancing to Sofia's music, forest trees leaning in to listen, vibrant colors, watercolor textures, Studio Ghibli inspired --ar 3:2
-A giant shadow monster Tremtyk transforming into a soft cloud-like creature under the music, emotional redemption scene --ar 3:2
-Sofia and Yarko under a giant ancient tree, the leaves glowing with every violin chord, cinematic wide shot, rule of thirds --ar 3:2
+Close-up of Yarko's face, wonder expression, golden freckles glowing slightly, volumetric atmosphere, hyper-detailed --ar 3:2
 
-# СЕРІЯ 3: Book_of_Time (Творення реальності)
-Yarko opening a giant glowing Book of Time, light illuminating his face, emerald eyes reflecting magical symbols --ar 3:2
-The pages of the book flying around the room, each page showing a memory, nostalgic lighting, dreamlike atmosphere --ar 3:2
-Yarko and Sofia stepping into a painting from the book, transition scene, hybrid animation style, magical realism --ar 3:2
-Yarko painting a new sun in the sky, the sun becomes real, lens flare, epic cinematic scale, Zack Snyder lighting --ar 3:2
-Final scene: Yarko, Sofia and Tremtyk sitting on a hill, looking at the created world, peaceful emotional ending, sunset --ar 3:2
+Yarko looking under the bed, two large glowing purple eyes of Tremtyk peeking from the dark, dramatic shadows, Snyder style --ar 3:2
+
+Tremtyk emerging from the shadow, a large fluffy creature made of dark smoke with kind eyes, Yarko reaching out, cinematic composition --ar 3:2
+
+Yarko drawing a glowing sun on the wall, the drawing starts to emit real light, illuminating the dark corners, magical realism --ar 3:2
+
+Yarko and Tremtyk sitting together, Yarko showing Tremtyk how to draw with light, blue and gold color palette --ar 3:2
+
+Sofia 15yo girl, long dark hair, standing in the doorway, watching Yarko with a supportive smile, soft backlight --ar 3:2
+
+Yarko's drawings of birds coming to life, flying around the room made of pure light, Studio Ghibli inspired magic --ar 3:2
+
+Tremtyk shrinking in size, becoming a small cute companion, Yarko laughing, joyful atmosphere, vibrant colors --ar 3:2
+
+Yarko and Sofia looking at a magical portal appearing in the closet, swirling golden particles, epic scale --ar 3:2
+
+Yarko stepping into the portal, hand in hand with Sofia, silhouettes against bright white light, Snyder style hero shot --ar 3:2
+
+Yarko's bedroom transforming into a glowing meadow, floor turning into grass, magical transition --ar 3:2
+
+Yarko catching a falling star in his palms, emerald eyes reflecting the glow, high contrast, cinematic --ar 3:2
+
+Tremtyk playing with light bubbles, Yarko jumping to catch them, watercolor textures, soft bokeh --ar 3:2
+
+Sofia playing a small melody on a whistle, flowers blooming where the sound touches the ground --ar 3:2
+
+Yarko drawing a shield of light around himself and Tremtyk, protecting from grey shadows, emotional depth --ar 3:2
+
+A giant shadow hand reaching for the light, Yarko stands brave, glowing crayon held like a sword --ar 3:2
+
+Shadows turning into colorful butterflies as Yarko touches them with light, transformation theme --ar 3:2
+
+Yarko and Sofia floating in a room with zero gravity, surrounded by floating drawings and stars --ar 3:2
+
+Yarko's reflection in a mirror showing him as a king of light, crown made of stars, epic lighting --ar 3:2
+
+Tremtyk hugging Yarko, the shadow and the child becoming one harmonious light, emotional climax --ar 3:2
+
+Sofia brushing Yarko's hair, calm moment before the journey, soft morning light, aesthetic --ar 3:2
+
+Yarko painting a path on the air, the path becomes a solid bridge of light, wide shot --ar 3:2
+
+Yarko, Sofia and Tremtyk standing at the window, looking at the Dream Forest in the distance --ar 3:2
+
+Yarko putting his glowing crayon into a backpack, ready for the big adventure, determined look --ar 3:2
+
+Sofia 15yo, holding a magical violin, standing at the entrance of a glowing ancient forest, cinematic wide shot --ar 3:2
+
+Sofia starts playing the violin, the first notes appear as glowing musical symbols, deep forest background --ar 3:2
+
+Yarko and Tremtyk following Sofia into the forest, giant glowing mushrooms, bioluminescent plants --ar 3:2
+
+Close-up of Sofia's hands on the violin strings, magical sparks flying from the bow, hyper-detailed --ar 3:2
+
+The music creates a bridge over a crystalline river, Yarko running across, joyful motion --ar 3:2
+
+Sofia playing a high note, the trees begin to glow in rhythm, purple and teal lighting, Snyder style --ar 3:2
+
+Yarko and Sofia sitting on a giant leaf floating in the air, music notes forming a protective dome --ar 3:2
+
+A forest deer made of starlight appearing from the music, Sofia bowing to the creature, magical encounter --ar 3:2
+
+Yarko trying to play the violin with Sofia, messy but glowing notes, emotional sibling bonding --ar 3:2
+
+The forest transforming from dark to bright vibrant colors as the music reaches its peak, epic lighting --ar 3:2
+
+Sofia leading a parade of forest creatures, all dancing to her violin, Studio Ghibli parade style --ar 3:2
+
+Yarko discovering a piano hidden in a giant tree trunk, moss-covered keys, magical mystery --ar 3:2
+
+Sofia's music healing a broken tree, branches growing and blooming in fast motion, time-lapse feel --ar 3:2
+
+Yarko and Tremtyk hiding in a giant flower as the music plays a lullaby, peaceful night atmosphere --ar 3:2
+
+Sofia playing violin under a waterfall, the water turning into liquid gold, dramatic lighting --ar 3:2
+
+Musical notes forming a map in the air, Sofia pointing to the heart of the forest --ar 3:2
+
+Yarko singing along with Sofia's violin, his voice creating small glowing birds --ar 3:2
+
+A giant owl listening to the music, wisdom in its eyes, Sofia playing for the owl, cinematic --ar 3:2
+
+The violin strings glowing like laser beams in the dark forest, Zack Snyder aesthetic, high contrast --ar 3:2
+
+Sofia and Yarko dancing in a circle of glowing mushrooms, fireflies everywhere, magical realism --ar 3:2
+
+Sofia's violin transforming into a bow of light to clear the fog, hero action shot --ar 3:2
+
+Yarko finding a rhythm by clapping, the forest floor drumming along with him --ar 3:2
+
+Sofia playing a sad melody to comfort a crying cloud, the rain turning into flowers --ar 3:2
+
+The forest singing together, trees, wind, and water in one harmony, Sofia conducting --ar 3:2
+
+Sofia looking tired but happy, leaning against a tree, violin in her lap, sunset through leaves --ar 3:2
+
+Yarko and Sofia find a stone altar, a giant glowing Book of Time lying on it, ancient magical aura --ar 3:2
+
+Yarko's small hand touching the ancient leather cover of the book, emerald eyes wide, soft light beams --ar 3:2
+
+The Book opens, revealing pages that are windows into different worlds, bright light from within --ar 3:2
+
+Yarko sees a memory of himself as a baby in the book, nostalgic sepia tones, emotional storytelling --ar 3:2
+
+Sofia realizes the book reacts to her music, she plays and the pages turn rapidly, magical wind --ar 3:2
+
+Yarko uses his glowing crayon to draw in the Book of Time, creating a new path for their future --ar 3:2
+
+A villainous shadow trying to close the book, Yarko and Sofia standing together, light vs dark, Snyder style --ar 3:2
+
+Tremtyk growing large and protective, standing behind the children, powerful silhouette --ar 3:2
+
+The characters stepping inside a page of the book, transitioning into a world of pure imagination --ar 3:2
+
+Yarko painting a new sun in the Book's sky, the real sky above them changes instantly, creator power --ar 3:2
+
+Sofia finding her future self in the book, a master musician, inspiring moment, ethereal glow --ar 3:2
+
+Yarko erasing a storm from the page, the weather clearing in reality, child as a creator --ar 3:2
+
+The Book of Time floating in the air, spinning, creating a galaxy of stars around the room --ar 3:2
+
+Sofia and Yarko writing their names in the book with golden ink, a pact of friendship --ar 3:2
+
+The pages of the book becoming a staircase to the stars, Yarko climbing up, wide cinematic shot --ar 3:2
+
+Tremtyk finding his own story in the book, his origin as a star-child, emotional revelation --ar 3:2
+
+The Book showing the "Creation Studio", where ideas become real objects, Ghibli workshop style --ar 3:2
+
+Sofia playing a melody that locks the book's secrets for safety, magical musical lock --ar 3:2
+
+Yarko holding the book close to his heart, the book glowing with a warm pulse --ar 3:2
+
+A bird made of paper flying out of the book into the real forest, life from imagination --ar 3:2
+
+Sofia and Yarko standing on the giant open book like a flying carpet, soaring over the world --ar 3:2
+
+The final lesson in the book appearing: "You are the creators of now", golden glowing text --ar 3:2
+
+Yarko, Sofia and Tremtyk sitting on a hill made of books, watching the sunrise, peaceful ending --ar 3:2
+
+The Book of Time turning into a small star that stays in Yarko's hand, symbolic conclusion --ar 3:2
+
+Final shot: Yarko and Sofia walking home, their shadows are now giants of light, cinematic fade out --ar 3:2
