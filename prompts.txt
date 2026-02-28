@@ -1,75 +1,20 @@
-A glowing forest with magical creatures
-Cyberpunk city skyline at night
-Dreamlike watercolor of a child reading
-Epic mountain landscape with sunrise
-Cartoon-style dragon flying in the sky
-Surreal desert with giant clocks
-Magical castle floating above clouds
-Dark gothic cathedral with candlelight
-Futuristic robot in neon city
-Fantasy village with lanterns
-Ocean waves glowing under moonlight
-Children playing in enchanted meadow
-Mystical cave with crystals
-Ancient library full of glowing books
-Tender watercolor of friendship
-Dreamlike forest path with fireflies
-Cartoon fox with magical scarf
-Epic battle scene in Snyder style
-Whimsical cartoon dragon flying
-Surreal desert landscape with giant clocks
-Magical castle floating in the sky
-Dark gothic cathedral with candlelight
-Cyberpunk alley glowing with neon signs
-Fantasy waterfall with rainbow
-Children exploring a glowing cave
-Hero standing on cliff in Snyder style
-Dynamic Tarantino-style shot of shadows
-Magical deer with glowing antlers
-Close-up of fearful child’s eyes
-Epic portal opening in the forest
-Children holding hands under starlight
-Surreal floating islands in the sky
-Cartoon-style humorous shadow creature
-Epic Snyder-style retreat of darkness
-Tarantino-style spinning camera shot
-Magical sparks flying around children
-Fantasy illustration of glowing book
-Tender cut-out animation of laughter
-Surreal dreamscape with giant flowers
-Epic Snyder-style wide shot of battle
-Cartoon-style magical bird flying
-Dynamic Tarantino-style humor scene
-Magical forest glowing with harmony
-Children smiling with light and music
-Fantasy illustration of guiding lantern
-Surreal desert with glowing symbols
-Epic Snyder-style final frame
-Cartoon-style Tremtyk with sparks
-Magical castle glowing in mist
-Children united in harmony
-Yarko, a 6-year-old boy with a lantern, standing at the edge of a dark forest
-Close-up of Yarko’s fearful eyes glowing in lantern light
-Solomiya, a 9-year-old girl playing guitar under the stars
-DreamForestKids watercolor of children exploring magical woods
-Tender cut-out animation: Solomiya turns fear into laughter with Tremtyk
-Fantasy illustration of Yarko guiding friends with his book of light
-Slow-motion shot: Yarko lifting lantern higher
-Epic Snyder-style frame: shadows retreating
-Tarantino-style humor: shadow creature tripping
-Children standing together, light and music merging
-Close-up of Solomiya’s glowing guitar strings
-Yarko’s book floating in the air
-Magical portal opening in the forest
-Shadows transforming into playful creatures
-Solomiya laughing with Tremtyk
-Lantern exploding into thousands of fireflies
-Slow-motion: fireflies surrounding children
-Dynamic Tarantino-style spinning shot
-Epic final frame: glowing forest
-Close-up: Yarko and Solomiya smiling
-Fantasy illustration of harmony restored
-DreamForestKids watercolor of magical deer
-Tender cut-out animation of friendship
-Epic Snyder-style wide shot of glowing forest
-Children united in light and music
+# СЕРІЯ 1: Shadow_and_Light (Ярко вчиться керувати страхом)
+Yarko 6yo boy, honey-chestnut hair, emerald eyes with gold dots, curious expression, Studio Ghibli style, soft cinematic lighting, magical bedroom atmosphere --ar 3:2
+Yarko looking under the bed, glowing magical eyes of Tremtyk peeking from shadows, emotional storytelling, cinematic composition --ar 3:2
+Yarko drawing with glowing chalk on the wooden floor, the lines begin to float in the air, light vs shadow contrast, hyper-detailed --ar 3:2
+Yarko face close-up, expression of wonder, golden freckles glowing slightly, volumetric atmosphere, soft rim light --ar 3:2
+Yarko and Sofia standing together, Sofia holding a violin, magical forest background, silhouettes against a golden sunset, Snyder style --ar 3:2
+
+# СЕРІЯ 2: Music_of_the_Forest (Софія та сила звуку)
+Sofia 15yo girl, long dark hair, elegant posture, playing violin in a magical forest, musical notes turning into glowing butterflies --ar 3:2
+Sofia's hands on the violin, detailed wood texture, magical particles rising from the strings, soft bokeh background --ar 3:2
+Yarko dancing to Sofia's music, forest trees leaning in to listen, vibrant colors, watercolor textures, Studio Ghibli inspired --ar 3:2
+A giant shadow monster Tremtyk transforming into a soft cloud-like creature under the music, emotional redemption scene --ar 3:2
+Sofia and Yarko under a giant ancient tree, the leaves glowing with every violin chord, cinematic wide shot, rule of thirds --ar 3:2
+
+# СЕРІЯ 3: Book_of_Time (Творення реальності)
+Yarko opening a giant glowing Book of Time, light illuminating his face, emerald eyes reflecting magical symbols --ar 3:2
+The pages of the book flying around the room, each page showing a memory, nostalgic lighting, dreamlike atmosphere --ar 3:2
+Yarko and Sofia stepping into a painting from the book, transition scene, hybrid animation style, magical realism --ar 3:2
+Yarko painting a new sun in the sky, the sun becomes real, lens flare, epic cinematic scale, Zack Snyder lighting --ar 3:2
+Final scene: Yarko, Sofia and Tremtyk sitting on a hill, looking at the created world, peaceful emotional ending, sunset --ar 3:2
